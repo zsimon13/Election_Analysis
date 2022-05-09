@@ -1,7 +1,7 @@
 # Election Audit Analysis
 
 ## Overview of the Electoin Audit
-A Colorado Board of Elections employee was given a project to analyze data from a recent congressional election. He was given a dataset in a .csv file that included voter ID, candidate name, and the county whcih the vote was cast. He asked to find the following data:
+A Colorado Board of Elections employee was given a project to analyze data from a recent congressional election. He was given a dataset in a .csv file that included voter ID, candidate name, and the county which the vote was cast. He asked to find the following data:
 1. Total number of votes cast
 2. The percentage of votes cast in each county
 3. The number of votes that were cast in each county
