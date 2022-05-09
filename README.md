@@ -5,7 +5,7 @@ A Colorado Board of Elections employee was given a project to analyze data from 
 1. Total number of votes cast
 2. The percentage of votes cast in each county
 3. The number of votes that were cast in each county
-4. The county with the largest turnout of voters\
+4. The county with the largest turnout of voters
 5. The candidates who recieved votes
 6. Number of votes each candidate recieved
 7. The percentage of votes each candidate recieved
