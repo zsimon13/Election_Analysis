@@ -19,7 +19,7 @@ A Colorado Board of Elections employee was given a project to analyze data from 
   - Jefferson County casted **38,855 votes**, or **10.5 %**
   - Arapahoe County casted **24,801 votes** or **6.7%.**
 -  Denver County had the largest amount of votes
--  The candidates recieved the following maount of votes
+-  The candidates recieved the following amount of votes
   - Charles Casper Stockham recieved **85,213 votes** or **23.0%** of the total vote
   - Diana DeGette recieved **272,892 votes** or **73.8%** of the total vote
   - Raymon Anthony Doane recieved **11,606 votes** or **3.1%** of the total vote
