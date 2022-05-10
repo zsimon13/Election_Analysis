@@ -28,7 +28,7 @@ A Colorado Board of Elections employee was given a project to analyze data from 
 ![election_results](https://user-images.githubusercontent.com/102814578/167333074-59fb0b3a-b444-4c42-a1e4-409a85b98f5a.png)
 
 ## Election Audit Summary 
-The script used to to perform this analysis showed good performance for a relatively large dataset, and ease of use when pulling the data from a independent file. It efficiently analyzed the avaliable data from both candidate and county perspectives. This script is capable of scaling up to a statewide election with no alterations being necessary. It is built to pull information from a dataset with no magical numbers or hard values.
+The script used to perform this analysis showed good performance for a relatively large dataset, and ease of use when pulling the data from a independent file. It efficiently analyzed the avaliable data from both candidate and county perspectives. This script is capable of scaling up to a statewide election with no alterations being necessary. It is built to pull information from a dataset with no magical numbers or hard values.
 
 The script could be used to show other trends in the data with minor alterations. One example would be and addition of a loop to determine the percentage and total number of votes each candidate recieved from each indidvidual county. With minor alterations it could analyze the votes cast by each city or district in the state. It would have no issue scaling to a nationwide election and analyze votes by state or region as well. It was built with versaitilty in mind.
 
